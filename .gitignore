@@ -1,0 +1,14 @@
+public/bundle.js*
+node_modules/
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+packages/
+.fake
+.ionide.debug
+project.lock.json

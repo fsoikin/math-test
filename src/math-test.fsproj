@@ -1,0 +1,16 @@
+<Project Sdk="FSharp.NET.Sdk;Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Types.fs" />
+    <Compile Include="Questions/1.fs" />
+    <Compile Include="Questions/2.fs" />
+    <Compile Include="Questions/3.fs" />
+    <Compile Include="Questions/4.fs" />
+    <Compile Include="Questions/All.fs" />
+    <Compile Include="Question.fs" />
+    <Compile Include="TestingApp.fs" />
+  </ItemGroup>
+  <Import Project="..\.paket\Paket.Restore.targets" />
+</Project>
