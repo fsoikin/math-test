@@ -8,6 +8,10 @@
     <Compile Include="Questions/2.fs" />
     <Compile Include="Questions/3.fs" />
     <Compile Include="Questions/4.fs" />
+    <Compile Include="Questions/5.fs" />
+    <Compile Include="Questions/6.fs" />
+    <Compile Include="Questions/7.fs" />
+    <Compile Include="Questions/8.fs" />
     <Compile Include="Questions/All.fs" />
     <Compile Include="Question.fs" />
     <Compile Include="TestingApp.fs" />
